@@ -1,4 +1,4 @@
-{
+
 <h1 align="center">Hi 👋, I'm Prashanth G V</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 <img align="right"  alt="Coding" width="400"  src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
@@ -22,5 +22,5 @@
  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>}
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
