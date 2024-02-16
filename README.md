@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **prashanthgv2001@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/Documents/Prashanth%20All%20Details/Prashanth%20Resume/Prashanth%20G%20V-B.E-ISE.pdf](file:///C:/Users/HP/Documents/Prashanth%20All%20Details/Prashanth%20Resume/Prashanth%20G%20V-B.E-ISE.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prashanth g v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanth g v" height="30" width="40" /></a>
