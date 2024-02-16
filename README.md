@@ -1,5 +1,4 @@
-{![MasterHead](https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png)
-
+{
 <h1 align="center">Hi 👋, I'm Prashanth G V</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 <img align="right"  alt="Coding" width="400"  src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
